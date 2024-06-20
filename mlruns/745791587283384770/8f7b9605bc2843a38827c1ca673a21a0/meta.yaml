@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Moaze002/Documents/mlflow01/mlruns/745791587283384770/8f7b9605bc2843a38827c1ca673a21a0/artifacts
+end_time: 1718892309209
+entry_point_name: ''
+experiment_id: '745791587283384770'
+lifecycle_stage: active
+run_id: 8f7b9605bc2843a38827c1ca673a21a0
+run_name: rumbling-bug-564
+run_uuid: 8f7b9605bc2843a38827c1ca673a21a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892307753
+status: 3
+tags: []
+user_id: Moaze002
