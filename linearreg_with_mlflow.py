@@ -10,6 +10,7 @@ import mlflow
 import mlflow.sklearn
 
 logging.basicConfig(level=logging.WARN)
+
 logger = logging.getLogger(__name__)
 
 # get arguments from command

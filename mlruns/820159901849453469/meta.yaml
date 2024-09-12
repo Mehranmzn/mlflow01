@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Moaze002/Documents/mlflow01/mlruns/820159901849453469
+creation_time: 1724100259400
+experiment_id: '820159901849453469'
+last_update_time: 1724100259400
+lifecycle_stage: active
+name: experiment_autolog

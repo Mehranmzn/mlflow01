@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Moaze002/Documents/mlflow01/mlruns/820159901849453469/fbe0b803612045e1902a6969e639370f/artifacts
+end_time: 1724100267057
+entry_point_name: ''
+experiment_id: '820159901849453469'
+lifecycle_stage: active
+run_id: fbe0b803612045e1902a6969e639370f
+run_name: charming-stoat-348
+run_uuid: fbe0b803612045e1902a6969e639370f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724100259469
+status: 3
+tags: []
+user_id: Moaze002
